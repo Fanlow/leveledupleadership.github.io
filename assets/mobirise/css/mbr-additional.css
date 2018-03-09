@@ -1,5 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
 
 
 
@@ -532,6 +536,7 @@ a:hover {
 #form3-0 .heading-title {
   text-align: left;
   font-size: 18px;
+  font-family: 'Libre Franklin', serif;
 }
 #form3-0 .heading-title B {
   font-size: 36px;
@@ -541,4 +546,10 @@ a:hover {
 }
 #form3-0 .form-title B {
   color: #fffffd;
+}
+#form3-0 .heading-title SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+#form3-0 .heading-title DIV {
+  font-family: 'Open Sans', sans-serif;
 }
