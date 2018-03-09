@@ -41,52 +41,6 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#fff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-text": {
-              "text-align": "center"
-            },
-            ".heading-title": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "contentAlign": "left",
-            "paddingTop": 4,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chess-pieces-leadership-2000x1457.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2d2d2d",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": "0.8"
-          },
-          "title": "LEARN TO LEAD",
-          "text": "We have a BIG passion for Leadership. We Desire is to help Leaders or those that would like to be Leaders Develop and Grow to become the Best Leaders they can be. We Believe that in Leadership we are constantly Growing and Learning. The Best Leaders Know, Believe and Put into Practice this Concept. They are willing to Learn, Receive Feedback and Work Daily on becoming the Best Version of them they can be. &nbsp;Let's Grow Together! <br><br>~ Leveled Up Leadership",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-3"
-        },
-        {
-          "_styles": {
             ".card": {
               "background-color": "transparent",
               "box-shadow": "none",
@@ -107,6 +61,12 @@
             },
             ".heading-title B": {
               "font-size": "36px"
+            },
+            ".form-title DIV": {
+              "color": "#fffffd"
+            },
+            ".form-title B": {
+              "color": "#fffffd"
             }
           },
           "_params": {
@@ -115,7 +75,7 @@
             "showText": true,
             "showCheckbox": false,
             "formBg": "#9b210d",
-            "formHeader": false,
+            "formHeader": true,
             "paddingTop": "1",
             "paddingBottom": 1,
             "bgImageRadio": true,
@@ -131,10 +91,10 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "title": "<b>LEVELED UP LEADERSHIP</b><br>Your 15 Minute Consultation Agenda:<br><br>1. Business Overview - Tell Us More About Your Business<br>2. Leveled Up Leadership Consultation - Q&amp;A<br>3. Next Steps To Lead Well - Schedule Follow Up&nbsp;<br><br>To Schedule Your Consultation Today!",
+          "title": "<span style=\"font-size: 36px;\"><b>LEARN TO LEAD</b></span><br><br>We have a BIG passion for Leadership. We Desire is to help Leaders or those that would like to be Leaders Develop and Grow to become the Best Leaders they can be. We Believe that in Leadership we are constantly Growing and Learning. The Best Leaders Know, Believe and Put into Practice this Concept. They are willing to Learn, Receive Feedback and Work Daily on becoming the Best Version of them they can be.  Let's Grow Together!<br><br> \n<div>\n</div><div>~ Leveled Up Leadership</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
+          "header": "<b>LEVELED UP LEADERSHIP\n</b><div><b>Your 15 Minute Consultation Agenda:\n</b></div><div>\n</div><div><b>1. Business Overview - Tell Us More About Your Business\n</b></div><div><b>2. Leveled Up Leadership Consultation - Q&amp;A\n</b></div><div><b>3. Next Steps To Lead Well - Schedule Follow Up \n</b></div><div>\n</div><div><b>To Schedule Your Consultation Today!</b></div>",
           "form": {
             "action": "info@leveledupleadership.com",
             "alerts": {
