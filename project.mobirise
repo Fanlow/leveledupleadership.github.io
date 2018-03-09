@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-09_0825",
+    "name": "Leveled Up Leadership",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -24,6 +24,11 @@
       ]
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/leveledup-1-128x45.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.5",
     "uniqCompNum": 4,
     "versionPublish": "4.6.5"
